@@ -1,6 +1,12 @@
+<div align="center">
+
 # IronPath
 
-A phone-friendly app that builds a day-by-day triathlon training plan and adjusts it when life gets in the way.
+**A phone-friendly app that builds a day-by-day triathlon training plan and adjusts it when life gets in the way.**
+
+</div>
+
+<br>
 
 You tell IronPath which race you're training for (Olympic distance, half Ironman, full Ironman, or a custom distance), when it is, how experienced you are, how many days a week you can train, and your best recent times. It then builds a full plan of swim, bike, run, combined bike-then-run, and strength sessions leading up to race day. It was made for the owner and a few friends, and can be added to a phone's home screen like a regular app. It is an early version.
 
