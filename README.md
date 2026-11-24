@@ -4,6 +4,8 @@
 
 **A phone-friendly app that builds a day-by-day triathlon training plan and adjusts it when life gets in the way.**
 
+<!-- facts --><img alt="Distances: Olympic to Ironman" src="https://img.shields.io/badge/Distances-Olympic_to_Ironman-24292f?style=for-the-badge"> <img alt="Days a week: 3 to 7" src="https://img.shields.io/badge/Days_a_week-3_to_7-24292f?style=for-the-badge"> <img alt="Plan made by: fixed rules, not AI" src="https://img.shields.io/badge/Plan_made_by-fixed_rules,_not_AI-24292f?style=for-the-badge">
+
 </div>
 
 <br>
