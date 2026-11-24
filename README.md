@@ -4,13 +4,13 @@
 
 **A phone-friendly app that builds a day-by-day triathlon training plan and adjusts it when life gets in the way.**
 
-<!-- facts --><img alt="Distances: Olympic to Ironman" src="https://img.shields.io/badge/Distances-Olympic_to_Ironman-24292f?style=for-the-badge"> <img alt="Days a week: 3 to 7" src="https://img.shields.io/badge/Days_a_week-3_to_7-24292f?style=for-the-badge"> <img alt="Plan made by: fixed rules, not AI" src="https://img.shields.io/badge/Plan_made_by-fixed_rules,_not_AI-24292f?style=for-the-badge">
+<!-- facts --><img alt="Distances: Olympic to Ironman" src="https://img.shields.io/badge/Distances-Olympic_to_Ironman-24292f?style=for-the-badge"> <img alt="Days a week: 3 to 7" src="https://img.shields.io/badge/Days_a_week-3_to_7-24292f?style=for-the-badge"> <img alt="Plan: adjusts as you train" src="https://img.shields.io/badge/Plan-adjusts_as_you_train-24292f?style=for-the-badge">
 
 </div>
 
 <br>
 
-You tell IronPath which race you're training for (Olympic distance, half Ironman, full Ironman, or a custom distance), when it is, how experienced you are, how many days a week you can train, and your best recent times. It then builds a full plan of swim, bike, run, combined bike-then-run, and strength sessions leading up to race day. It was made for the owner and a few friends, and can be added to a phone's home screen like a regular app. It is an early version.
+You tell IronPath which race you're training for (Olympic distance, half Ironman, full Ironman, or a custom distance), when it is, how experienced you are, how many days a week you can train, and your best recent times. It then builds a full plan of swim, bike, run, combined bike-then-run, and strength sessions leading up to race day. It was made for the owner and a few friends, and can be added to a phone's home screen like a regular app.
 
 ## What you can do with it
 
