@@ -10,7 +10,7 @@
 
 <br>
 
-You tell IronPath which race you're training for (Olympic distance, half Ironman, full Ironman, or a custom distance), when it is, how experienced you are, how many days a week you can train, and your best recent times. It then builds a full plan of swim, bike, run, combined bike-then-run, and strength sessions leading up to race day. It was made for the owner and a few friends, and can be added to a phone's home screen like a regular app.
+You tell IronPath which race you're training for (Olympic distance, half Ironman, full Ironman, or a custom distance), when it is, how experienced you are, how many days a week you can train, and your best recent times. It then builds a full plan of swim, bike, run, combined bike-then-run, and strength sessions leading up to race day. It can be added to a phone's home screen like a regular app.
 
 ## What you can do with it
 
